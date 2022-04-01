@@ -10,5 +10,5 @@ def mul(a, b):
   return a * 2
 
 def div(a, b):
-  print("divizion")
+  print("divizio3n")
   return a / 4
